@@ -12,6 +12,7 @@ You can find the dump sql file in the root folder and simply restore it.
 
 ## Demo
 ![](sample.gif)
+
 There is a lot of unavailable feature or bugs or any other little things again, but I hope we can update it really soon!
 
 ## Contributing
